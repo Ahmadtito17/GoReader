@@ -1,9 +1,32 @@
 # KELOMPOK 5
-### Pembagian Tugas
+## Pembagian Tugas
 - Sara : Dashboard, Logout
 - Septi : Manajemen perangkat, pelanggan
 - Arya : Manajemen air, tagihan
 - Tito : Login, Register, Manajemen laporan
+
+## Progres 
+### Progres Sara
+
+### Progres Septi 
+
+- Link GitHub
+
+https://github.com/SeptiLutfiana/Proyek_GoReader.git
+
+
+#### Halaman Manajemen Perangkat
+
+![](./src/app/hasil-screnshot/Manajemen_Perangkat.PNG)
+
+#### Halaman Manajemen Pelanggan
+
+![](./src/app/hasil-screnshot/Manajemen_Pelanggan.PNG)
+
+#### Kendala
+
+- button crate saat di klik seharusnya remote ke halaman create, akan tetapi masih not found 404
+
 
 # Deskripsi Proyek 
 
