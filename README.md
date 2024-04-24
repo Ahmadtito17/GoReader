@@ -43,6 +43,20 @@ https://github.com/Ahmadtito17/GoReader.git
 
 ![](./src/app/hasil-screnshot/Register.png)
 
+### Progres Arya
+
+- Link GitHub
+
+https://github.com/AryaWicaksanaH/GoReader_ManajemenAir-Tagihan.git
+
+
+#### Halaman Manajemen Air
+
+![](./src/app/hasil-screnshot/)
+
+#### Halaman Manajemen Tagihan
+
+![](./src/app/hasil-screnshot/)
 
 # Deskripsi Proyek 
 
