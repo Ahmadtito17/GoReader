@@ -27,6 +27,21 @@ https://github.com/SeptiLutfiana/Proyek_GoReader.git
 
 - button crate saat di klik seharusnya remote ke halaman create, akan tetapi masih not found 404
 
+### Progres Tito
+
+- Link GitHub
+
+https://github.com/Ahmadtito17/GoReader.git
+
+
+#### Halaman Login
+
+![](./src/app/hasil-screnshot/Login.png)
+
+#### Halaman Register
+
+![](./src/app/hasil-screnshot/Register.png)
+
 
 # Deskripsi Proyek 
 
