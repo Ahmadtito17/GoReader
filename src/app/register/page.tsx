@@ -1,6 +1,6 @@
-import Image from "next/image";
+import React from 'react'
 
-export default function Home() {
+export default function Register() {
   return (
     <>
       <div className="w-full h-screen flex items-start">
@@ -15,10 +15,25 @@ export default function Home() {
         <div className='w-2/5 h-full bg-white flex flex-col p-20'>
           <div className='w-full flex flex-col'>
             <h3 className='text-2xl text-black font-bold mb-2'>Hello!</h3>
-            <p className='text-l mb-1'>Sign in to your account</p>
+            <p className='text-l mb-1'>Sign up to get started</p>
           </div>
           <div className="mt-10 sm:mx-auto sm:w-full sm:max-w-sm">
             <form className="space-y-6" action="#" method="POST">
+            <div>
+                <label htmlFor="name" className="block text-sm font-medium leading-6 text-gray-900">
+                  Full name
+                </label>
+                <div className="mt-2">
+                  <input
+                    id="name"
+                    name="name"
+                    type="name"
+                    autoComplete="name"
+                    required
+                    className="block w-full rounded-md border-0 py-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6"
+                  />
+                </div>
+              </div>
               <div>
                 <label htmlFor="email" className="block text-sm font-medium leading-6 text-gray-900">
                   Email address
@@ -39,11 +54,6 @@ export default function Home() {
                   <label htmlFor="password" className="block text-sm font-medium leading-6 text-gray-900">
                     Password
                   </label>
-                  <div className="text-sm">
-                    <a href="#" className="font-semibold text-gray-900 hover:text-[#1679AB]">
-                      Forgot password?
-                    </a>
-                  </div>
                 </div>
                 <div className="mt-2">
                   <input
@@ -57,16 +67,11 @@ export default function Home() {
                 </div>
               </div>
               <div>
-                <button
-                  type="submit"
-                  className="flex w-full justify-center rounded-md bg-[#1679AB] px-3 py-1.5 text-sm font-semibold leading-6 text-white shadow-sm hover:bg-black focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
+              <a
+                href="/"
+                className="flex w-full justify-center rounded-md bg-[#1679AB] px-3 py-1.5 text-sm font-semibold leading-6 text-white shadow-sm hover:bg-black focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
                 >
-                  Login
-                </button>
-              </div>
-              <div className="text-sm flex justify-center">
-                <a href="/register" className="font-semibold text-gray-900 hover:text-[#1679AB]">
-                  Don't have an account?
+                Register
                 </a>
               </div>
             </form>
@@ -74,5 +79,5 @@ export default function Home() {
         </div>
       </div>
     </>
-  );
+  )
 }
