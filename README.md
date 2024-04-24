@@ -9,6 +9,12 @@
 ### Progres Sara
 #### Halaman Dashboard
 
+![](./src/app/hasil-screnshot/das.png)
+
+#### Halaman Logout
+
+![](./src/app/hasil-screnshot/logout.png)
+
 ### Progres Septi 
 
 - Link GitHub
