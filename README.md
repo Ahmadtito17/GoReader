@@ -52,11 +52,11 @@ https://github.com/AryaWicaksanaH/GoReader_ManajemenAir-Tagihan.git
 
 #### Halaman Manajemen Air
 
-![](./src/app/hasil-screnshot/)
+![](./src/app/hasil-screnshot/Manage_Air.png)
 
 #### Halaman Manajemen Tagihan
 
-![](./src/app/hasil-screnshot/)
+![](./src/app/hasil-screnshot/Manage_Tagih.png)
 
 # Deskripsi Proyek 
 
