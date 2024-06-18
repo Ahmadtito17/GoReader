@@ -5,6 +5,10 @@
 - Arya : Manajemen air, tagihan
 - Tito : Login, Register, Manajemen laporan
 
+### Link Pengerjaan Proyek
+
+https://github.com/SeptiLutfiana/GoReader-Kelompok5
+
 ## Progres 
 ### Progres Sara
 #### Halaman Dashboard
